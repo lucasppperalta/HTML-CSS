@@ -1,0 +1,56 @@
+body{
+    background-image: url(pexels-nav-photography-5458354.jpg );
+    font-family: calibri;    
+}
+h2{font-family: cursive; }
+#contenedor{
+    width: 960px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    width: 960px;
+    height: 156px;
+}
+#logo{
+    width: 755px;
+    height: 156px;
+    float: left;
+}
+#menu{
+    text-decoration: none;
+    width: 205px;
+    height: 156px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+#menu.ul.li{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+article{
+    width: 640px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    text-align: center;
+}
+aside{
+    width: 300px;
+    height: 500px;
+    background-color: chartreuse;
+    float: right;
+}
+footer{
+    width: 960px;
+    height: 120px;
+    background-color: black;
+    clear:both;
+}
